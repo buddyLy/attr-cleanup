@@ -1,0 +1,1 @@
+34352|2343|2015-01-13 16:59:25|A1:brand String/A2:category_nbr String/A3:cdt String/A4:flavor String/A5:size String/A6:upc String/|A1,A2,A3,A4,A5,A6,|brand String,category_nbr String,cdt String,flavor String,size String,upc String,

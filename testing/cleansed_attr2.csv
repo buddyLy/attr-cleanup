@@ -1,0 +1,10 @@
+acctg_dept_desc String,acctg_dept_nbr int,brand String,dept_category_desc String,dept_category_nbr int,flavor String,meal_occasion String,primary_usage String,retail_channel_code int,segment String,unit_size String,upc_nbr int
+GROCERY,1000,washington,YOGURT,3186,chicken,other,main meal,1,coatings,20.0 oz,1020010035
+GROCERY,1000,washington,YOGURT,3186,seafood,other,main meal,1,coatings,20.0 oz,1020010068
+GROCERY,1000,fryin magic,YOGURT,3186,plain,other,main meal,1,fry mix,16.0 oz,1112600102
+GROCERY,1000,bakin magic,YOGURT,3186,plain,other,main meal,1,coatings,16.0 oz,1112600115
+GROCERY,1000,miracle maize,YOGURT,3186,plain,other,side dish,1,corn bread,18.0 oz,1112600411
+GROCERY,1000,miracle maize,YOGURT,3186,honey,other,side dish,1,corn bread,18.0 oz,1112600415
+GROCERY,1000,martha white,YOGURT,3186,cheese,other,main meal,1,baking mix,7.0 oz,1330000039
+GROCERY,1000,martha white,YOGURT,3186,honey,other,side dish,1,corn bread,7.0 oz,1330000134
+GROCERY,1000,martha white,YOGURT,3186,plain,other,side dish,1,corn bread,19.0 oz,1330000257

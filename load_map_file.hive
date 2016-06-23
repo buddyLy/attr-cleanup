@@ -1,0 +1,16 @@
+--DROP TABLE IF EXISTS lcle.attribute_mapping_lookup_codes_;
+CREATE TABLE IF NOT EXISTS ${dtm_schema}.attribute_mapping_lookup_codes
+(
+retail_channel_code int,
+dept_nbr int,
+category_nbr string,
+timestamp string,
+attrcol_to_value string,
+attribute_code_list string,
+attribute_value_list string
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '|'
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;
+
+load data local inpath '${map_file}' into table ${dtm_schema}.attribute_mapping_lookup_codes;

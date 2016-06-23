@@ -1,0 +1,39 @@
+--************************************************************************************************************************
+-- Created By     : TCS
+-- Date           : 12-015-2014
+-- Application    : CIQ - DTM
+-- Script Name    : load_attribute_cleanup.hive
+-- Workflow Name  : load_attribute_cleanup
+-- Description    :
+-- Change History :
+--attr-cleanup/data/cleansed_attr_wo_header.csv
+--************************************************************************************************************************
+
+SET mapred.job.name=load_attribute_cleanup;
+
+USE ${dtm_schema};
+
+SET hive.exec.compress.output=true ;
+SET hive.exec.compress.intermediate=true ;
+SET mapred.output.compress=true ;
+SET mapred.output.compression.codec=org.apache.hadoop.io.compress.SnappyCodec ;
+SET mapred.map.output.compression.codec=org.apache.hadoop.io.compress.SnappyCodec ;
+SET io.seqfile.compression.type=BLOCK;
+SET io.sort.mb=500 ;
+SET mapred.reduce.slowstart.completed.maps=0.90 ;
+SET dfs.block.size=536870912;
+SET io.file.buffer.size=131072;
+SET mapred.compress.map.output=true;
+SET mapred.output.compression.type=BLOCK;
+
+DROP TABLE IF EXISTS ${dtm_table};
+
+CREATE TABLE IF NOT EXISTS ${dtm_schema}.${dtm_table}
+(
+${table_def}
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE;
+
+load data local inpath '${inputfile}' overwrite into table ${dtm_schema}.${dtm_table}

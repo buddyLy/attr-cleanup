@@ -1,0 +1,68 @@
+transplit00
+---only create similar list---
+processing totalword [3287]:	clock: [Mon Feb 16 11:59:19 2015] start time: [1424109237.89] end time: [1424109559.62] time elapsed: [321.73 sec] [5.36 min]
+total time::	clock: [Mon Feb 16 11:59:19 2015] start time: [1424109237.89] end time: [1424109559.62] time elapsed: [321.73 sec] [5.36 min]
+
+---with create similar list and get frequent value---
+processing totalword [3287]:	clock: [Mon Feb 16 12:19:55 2015] start time: [1424110464.13] end time: [1424110795.57] time elapsed: [331.44 sec] [5.52 min]
+total time::	clock: [Mon Feb 16 12:19:55 2015] start time: [1424110464.13] end time: [1424110795.57] time elapsed: [331.44 sec] [5.52 min]
+
+---with create similar list and get frequent value and isValueCompared---
+processing totalword [3287]:	clock: [Mon Feb 16 12:33:04 2015] start time: [1424111095.9] end time: [1424111584.66] time elapsed: [488.76 sec] [8.15 min]
+total time::	clock: [Mon Feb 16 12:33:04 2015] start time: [1424111095.9] end time: [1424111584.66] time elapsed: [488.76 sec] [8.15 min]
+
+transplit01
+processing totalword [3287]:	clock: [Mon Feb 16 13:13:42 2015] start time: [1424113090.32] end time: [1424114022.86] time elapsed: [932.53 sec] [15.54 min]
+total time::	clock: [Mon Feb 16 13:13:42 2015] start time: [1424113090.32] end time: [1424114022.86] time elapsed: [932.54 sec] [15.54 min]
+
+
+starting trans_cof500
+---Starting mapper class---
+processing totalword [499]:	clock: [Mon Feb 16 13:47:09 2015] start time: [1424116007.7] end time: [1424116029.1] time elapsed: [21.4 sec] [0.36 min]
+total time::	clock: [Mon Feb 16 13:47:09 2015] start time: [1424116007.7] end time: [1424116029.1] time elapsed: [21.4 sec] [0.36 min]
+starting trans_cof1000
+---Starting mapper class---
+processing totalword [999]:	clock: [Mon Feb 16 13:48:34 2015] start time: [1424116029.13] end time: [1424116114.93] time elapsed: [85.8 sec] [1.43 min]
+total time::	clock: [Mon Feb 16 13:48:34 2015] start time: [1424116029.13] end time: [1424116114.93] time elapsed: [85.8 sec] [1.43 min]
+starting trans_cof1500
+---Starting mapper class---
+processing totalword [1499]:	clock: [Mon Feb 16 13:51:48 2015] start time: [1424116114.96] end time: [1424116308.53] time elapsed: [193.57 sec] [3.23 min]
+total time::	clock: [Mon Feb 16 13:51:48 2015] start time: [1424116114.96] end time: [1424116308.53] time elapsed: [193.57 sec] [3.23 min]
+starting trans_cof2000
+---Starting mapper class---
+processing totalword [1999]:	clock: [Mon Feb 16 13:57:34 2015] start time: [1424116308.55] end time: [1424116654.36] time elapsed: [345.81 sec] [5.76 min]
+total time::	clock: [Mon Feb 16 13:57:34 2015] start time: [1424116308.55] end time: [1424116654.36] time elapsed: [345.81 sec] [5.76 min]
+starting trans_cof2500
+---Starting mapper class---
+processing totalword [2499]:	clock: [Mon Feb 16 14:06:28 2015] start time: [1424116654.39] end time: [1424117188.67] time elapsed: [534.28 sec] [8.9 min]
+total time::	clock: [Mon Feb 16 14:06:28 2015] start time: [1424116654.38] end time: [1424117188.67] time elapsed: [534.28 sec] [8.9 min]
+starting trans_cof3000
+---Starting mapper class---
+processing totalword [2999]:	clock: [Mon Feb 16 14:19:21 2015] start time: [1424117188.7] end time: [1424117961.98] time elapsed: [773.29 sec] [12.89 min]
+total time::	clock: [Mon Feb 16 14:19:21 2015] start time: [1424117188.7] end time: [1424117961.98] time elapsed: [773.29 sec] [12.89 min]
+
+-------------
+starting trans_vendor500
+---Starting mapper class---
+processing totalword [499]:	clock: [Mon Feb 16 14:26:45 2015] start time: [1424118389.91] end time: [1424118405.93] time elapsed: [16.02 sec] [0.27 min]
+total time::	clock: [Mon Feb 16 14:26:45 2015] start time: [1424118389.91] end time: [1424118405.93] time elapsed: [16.02 sec] [0.27 min]
+starting trans_vendor1000
+---Starting mapper class---
+processing totalword [999]:	clock: [Mon Feb 16 14:27:56 2015] start time: [1424118405.95] end time: [1424118476.84] time elapsed: [70.89 sec] [1.18 min]
+total time::	clock: [Mon Feb 16 14:27:56 2015] start time: [1424118405.95] end time: [1424118476.84] time elapsed: [70.89 sec] [1.18 min]
+starting trans_vendor1500
+---Starting mapper class---
+processing totalword [1499]:	clock: [Mon Feb 16 14:30:46 2015] start time: [1424118476.87] end time: [1424118646.34] time elapsed: [169.48 sec] [2.82 min]
+total time::	clock: [Mon Feb 16 14:30:46 2015] start time: [1424118476.87] end time: [1424118646.34] time elapsed: [169.48 sec] [2.82 min]
+starting trans_vendor2000
+---Starting mapper class---
+processing totalword [1999]:	clock: [Mon Feb 16 14:35:50 2015] start time: [1424118646.37] end time: [1424118950.87] time elapsed: [304.5 sec] [5.07 min]
+total time::	clock: [Mon Feb 16 14:35:50 2015] start time: [1424118646.37] end time: [1424118950.87] time elapsed: [304.5 sec] [5.07 min]
+starting trans_vendor2500
+---Starting mapper class---
+processing totalword [2499]:	clock: [Mon Feb 16 14:43:57 2015] start time: [1424118950.89] end time: [1424119437.42] time elapsed: [486.52 sec] [8.11 min]
+total time::	clock: [Mon Feb 16 14:43:57 2015] start time: [1424118950.89] end time: [1424119437.42] time elapsed: [486.52 sec] [8.11 min]
+starting trans_vendor3000
+---Starting mapper class---
+processing totalword [2999]:	clock: [Mon Feb 16 14:55:43 2015] start time: [1424119437.44] end time: [1424120143.02] time elapsed: [705.57 sec] [11.76 min]
+total time::	clock: [Mon Feb 16 14:55:43 2015] start time: [1424119437.44] end time: [1424120143.02] time elapsed: [705.58 sec] [11.76 min]

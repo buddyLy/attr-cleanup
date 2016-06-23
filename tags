@@ -1,0 +1,227 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+IsOdd	unittest/module1.py	/^def IsOdd(n):$/;"	f
+IsOdd2	unittest/module1.py	/^def IsOdd2(n):$/;"	f
+IsOddTests	unittest/test_create_map_file.py	/^class IsOddTests(unittest.TestCase):$/;"	c
+alert_me	dmt_model_main.sh	/^function alert_me$/;"	f
+ast	attr_cleanup_reducer.py	/^import ast$/;"	i
+ast	attr_reducer.py	/^import ast$/;"	i
+attrvalue	attr_cleanup_mapper.py	/^                attrvalue = getmostfrequentvalue(similarvaluelist)$/;"	v
+attrvalue	attr_cleanup_reducer.py	/^    attrvalue = keyvalue[4]$/;"	v
+attrvalue	attr_mapper.py	/^                attrvalue = getmostfrequentvalue(similarvaluelist)$/;"	v
+attrvalue	attr_mapper2.py	/^                attrvalue = getmostfrequentvalue(similarvaluelist)$/;"	v
+attrvalue	attr_reducer.py	/^    attrvalue = keyvalue[4]$/;"	v
+attrvaluecount	attr_cleanup_reducer.py	/^    attrvaluecount = ast.literal_eval(keyvalue[5])$/;"	v
+attrvaluecount	attr_reducer.py	/^    attrvaluecount = ast.literal_eval(keyvalue[5])$/;"	v
+attrvaluecountstring	attr_cleanup_reducer.py	/^    attrvaluecountstring = ""$/;"	v
+attrvaluecountstring	attr_cleanup_reducer.py	/^    attrvaluecountstring = ''.join(stringconcatlist)$/;"	v
+attrvaluecountstring	attr_reducer.py	/^    attrvaluecountstring = ""$/;"	v
+attrvaluecountstring	attr_reducer.py	/^    attrvaluecountstring = ''.join(stringconcatlist)$/;"	v
+attrvaluelist	attr_cleanup_mapper.py	/^    attrvaluelist = []$/;"	v
+attrvaluelist	attr_mapper.py	/^    attrvaluelist = []$/;"	v
+attrvaluelist	attr_mapper2.py	/^    attrvaluelist = []$/;"	v
+blankcount	attr_cleanup_mapper.py	/^    blankcount = 0$/;"	v
+blankcount	attr_mapper.py	/^    blankcount = 0$/;"	v
+blankcount	attr_mapper2.py	/^    blankcount = 0$/;"	v
+callWTE	dmt_model_main.sh	/^function callWTE$/;"	f
+callpy	test/test.sh	/^function callpy$/;"	f
+check_config_variable	dmt_model_main.sh	/^function check_config_variable$/;"	f
+check_local_space	dmt_model_main.sh	/^function check_local_space$/;"	f
+check_return_code	dmt_model_main.sh	/^function check_return_code$/;"	f
+cleanAttributes	dmt_model_main.sh	/^function cleanAttributes$/;"	f
+convertExcelToCSV	dmt_model_main.sh	/^function convertExcelToCSV$/;"	f
+create_folder_structure	dmt_model_main.sh	/^function create_folder_structure$/;"	f
+csv	columns_to_rows.py	/^import csv$/;"	i
+csv	create_map_file.py	/^import csv$/;"	i
+current_key	attr_cleanup_reducer.py	/^current_key = None$/;"	v
+current_key	attr_reducer.py	/^current_key = None$/;"	v
+datetime	create_map_file.py	/^import datetime$/;"	i
+difflib	attr_cleanup_mapper.py	/^import difflib$/;"	i
+difflib	attr_mapper.py	/^import difflib$/;"	i
+difflib	attr_mapper2.py	/^import difflib$/;"	i
+distinctcount	attr_cleanup_mapper.py	/^    distinctcount = 0$/;"	v
+distinctcount	attr_mapper.py	/^    distinctcount = 0$/;"	v
+distinctcount	attr_mapper2.py	/^    distinctcount = 0$/;"	v
+dtm_initializer	dmt_model_main.sh	/^function dtm_initializer$/;"	f
+emailSummary	dmt_model_main.sh	/^function emailSummary$/;"	f
+error_exit	dmt_model_main.sh	/^function error_exit$/;"	f
+exclusionIndex	attr_cleanup_mapper.py	/^    exclusionIndex = 0$/;"	v
+exclusionIndex	attr_mapper.py	/^    exclusionIndex = 0$/;"	v
+exclusionIndex	attr_mapper2.py	/^    exclusionIndex = 0$/;"	v
+exclusionlist	attr_cleanup_mapper.py	/^    exclusionlist = []$/;"	v
+exclusionlist	attr_mapper.py	/^    exclusionlist = []$/;"	v
+exclusionlist	attr_mapper2.py	/^    exclusionlist = []$/;"	v
+firstword	attr_cleanup_mapper.py	/^                firstword = 1$/;"	v
+firstword	attr_cleanup_mapper.py	/^    firstword = 0$/;"	v
+firstword	attr_mapper.py	/^                firstword = 1$/;"	v
+firstword	attr_mapper.py	/^    firstword = 0$/;"	v
+firstword	attr_mapper2.py	/^                firstword = 1$/;"	v
+firstword	attr_mapper2.py	/^    firstword = 0$/;"	v
+firstword2	attr_cleanup_mapper.py	/^                        firstword2 = 1$/;"	v
+firstword2	attr_cleanup_mapper.py	/^            firstword2 = 0$/;"	v
+firstword2	attr_mapper.py	/^                        firstword2 = 1$/;"	v
+firstword2	attr_mapper.py	/^            firstword2 = 0$/;"	v
+firstword2	attr_mapper2.py	/^                        firstword2 = 1$/;"	v
+firstword2	attr_mapper2.py	/^            firstword2 = 0$/;"	v
+foo1	test/test.sh	/^function foo1$/;"	f
+generateMapFile	dmt_model_main.sh	/^function generateMapFile$/;"	f
+generateSummary	dmt_model_main.sh	/^function generateSummary$/;"	f
+getFromHDFS	dmt_model_main.sh	/^function getFromHDFS$/;"	f
+getVariables	dmt_model_main.sh	/^function getVariables$/;"	f
+get_current_date	dmt_model_main.sh	/^function get_current_date$/;"	f
+get_file_reader	columns_to_rows.py	/^def get_file_reader():$/;"	f
+get_file_writer	columns_to_rows.py	/^def get_file_writer():$/;"	f
+get_header_info	create_map_file.py	/^def get_header_info():$/;"	f
+get_time_elapsed	dmt_model_main.sh	/^function get_time_elapsed$/;"	f
+get_usr_input	columns_to_rows.py	/^def get_usr_input():$/;"	f
+get_usr_input	create_map_file.py	/^def get_usr_input():$/;"	f
+getmostfrequentvalue	attr_cleanup_mapper.py	/^def getmostfrequentvalue(similarvaluelist):$/;"	f
+getmostfrequentvalue	attr_mapper.py	/^def getmostfrequentvalue(similarvaluelist):$/;"	f
+getmostfrequentvalue	attr_mapper2.py	/^def getmostfrequentvalue(similarvaluelist):$/;"	f
+has_enough_space	dmt_model_main.sh	/^function has_enough_space$/;"	f
+has_required_attributes	columns_to_rows.py	/^def has_required_attributes(headerlist):$/;"	f
+index	attr_cleanup_mapper.py	/^    index = 0$/;"	v
+index	attr_mapper.py	/^    index = 0$/;"	v
+index	attr_mapper2.py	/^    index = 0$/;"	v
+isBlankWord	attr_cleanup_mapper.py	/^                isBlankWord = True $/;"	v
+isBlankWord	attr_cleanup_mapper.py	/^            isBlankWord = False$/;"	v
+isBlankWord	attr_cleanup_mapper.py	/^    isBlankWord = False$/;"	v
+isBlankWord	attr_mapper.py	/^                isBlankWord = True $/;"	v
+isBlankWord	attr_mapper.py	/^            isBlankWord = False$/;"	v
+isBlankWord	attr_mapper.py	/^    isBlankWord = False$/;"	v
+isBlankWord	attr_mapper2.py	/^                isBlankWord = True$/;"	v
+isBlankWord	attr_mapper2.py	/^            isBlankWord = False$/;"	v
+isBlankWord	attr_mapper2.py	/^    isBlankWord = False$/;"	v
+isValueExcluded	attr_cleanup_mapper.py	/^                            isValueExcluded = True$/;"	v
+isValueExcluded	attr_cleanup_mapper.py	/^            isValueExcluded = False$/;"	v
+isValueExcluded	attr_cleanup_mapper.py	/^    isValueExcluded = False$/;"	v
+isValueExcluded	attr_mapper.py	/^                            isValueExcluded = True$/;"	v
+isValueExcluded	attr_mapper.py	/^            isValueExcluded = False$/;"	v
+isValueExcluded	attr_mapper.py	/^    isValueExcluded = False$/;"	v
+isValueExcluded	attr_mapper2.py	/^                            isValueExcluded = True$/;"	v
+isValueExcluded	attr_mapper2.py	/^            isValueExcluded = False$/;"	v
+isValueExcluded	attr_mapper2.py	/^    isValueExcluded = False$/;"	v
+ispercentmissed	attr_cleanup_reducer.py	/^        ispercentmissed = 1$/;"	v
+ispercentmissed	attr_cleanup_reducer.py	/^    ispercentmissed = 0$/;"	v
+itemgetter	attr_cleanup_reducer.py	/^from operator import itemgetter$/;"	i
+itemgetter	attr_reducer.py	/^from operator import itemgetter$/;"	i
+key	attr_cleanup_mapper.py	/^                key = word$/;"	v
+key	attr_cleanup_mapper.py	/^    key = ""$/;"	v
+key	attr_cleanup_reducer.py	/^    key = keyvalue[0]$/;"	v
+key	attr_cleanup_reducer.py	/^key = None$/;"	v
+key	attr_mapper.py	/^                key = word$/;"	v
+key	attr_mapper.py	/^    key = ""$/;"	v
+key	attr_mapper2.py	/^                key = word$/;"	v
+key	attr_mapper2.py	/^    key = ""$/;"	v
+key	attr_reducer.py	/^    key = keyvalue[0]$/;"	v
+key	attr_reducer.py	/^key = None$/;"	v
+keyvalue	attr_cleanup_reducer.py	/^    keyvalue = line.split('|')$/;"	v
+keyvalue	attr_reducer.py	/^    keyvalue = line.split('|')$/;"	v
+line	attr_cleanup_mapper.py	/^    line = line.strip()$/;"	v
+line	attr_cleanup_reducer.py	/^    line = line.strip()$/;"	v
+line	attr_mapper.py	/^    line = line.strip()$/;"	v
+line	attr_mapper2.py	/^    line = line.strip()$/;"	v
+line	attr_reducer.py	/^    line = line.strip()$/;"	v
+lines	attr_cleanup_mapper.py	/^    lines = line.split("\\n")$/;"	v
+lines	attr_mapper.py	/^    lines = line.split("\\n")$/;"	v
+lines	attr_mapper2.py	/^    lines = line.split("\\n")$/;"	v
+loadAttrCleanupToHive	dmt_model_main.sh	/^function loadAttrCleanupToHive$/;"	f
+loadMapFileToHive	dmt_model_main.sh	/^function loadMapFileToHive$/;"	f
+loadToHDFS	dmt_model_main.sh	/^function loadToHDFS$/;"	f
+log_me	dmt_model_main.sh	/^function log_me$/;"	f
+logging	columns_to_rows.py	/^import logging$/;"	i
+logging	create_map_file.py	/^import logging$/;"	i
+main	columns_to_rows.py	/^def main():$/;"	f
+main	create_map_file.py	/^def main():$/;"	f
+main	unittest/test_create_map_file.py	/^def main():$/;"	f
+matchpercentage	attr_cleanup_mapper.py	/^                        matchpercentage = difflib.SequenceMatcher(None, excludeword, word).ratio()$/;"	v
+matchpercentage	attr_cleanup_mapper.py	/^                    matchpercentage = difflib.SequenceMatcher(None, word2, word).ratio()$/;"	v
+matchpercentage	attr_cleanup_mapper.py	/^    matchpercentage = 0$/;"	v
+matchpercentage	attr_mapper.py	/^                        matchpercentage = difflib.SequenceMatcher(None, excludeword, word).ratio()$/;"	v
+matchpercentage	attr_mapper.py	/^                    matchpercentage = difflib.SequenceMatcher(None, word2, word).ratio()$/;"	v
+matchpercentage	attr_mapper.py	/^    matchpercentage = 0$/;"	v
+matchpercentage	attr_mapper2.py	/^                        matchpercentage = difflib.SequenceMatcher(None, excludeword, word).ratio()$/;"	v
+matchpercentage	attr_mapper2.py	/^                    matchpercentage = difflib.SequenceMatcher(None, word2, word).ratio()$/;"	v
+matchpercentage	attr_mapper2.py	/^    matchpercentage = 0$/;"	v
+missingpercent	attr_cleanup_reducer.py	/^    missingpercent = round((float(noblank) \/ float(totalcount)),2)$/;"	v
+missingpercent	attr_reducer.py	/^    missingpercent = round((float(noblank) \/ float(totalcount)),2)$/;"	v
+myindex	attr_cleanup_mapper.py	/^                myindex = 0$/;"	v
+myindex	attr_mapper.py	/^                myindex = 0$/;"	v
+myindex	attr_mapper2.py	/^                myindex = 0$/;"	v
+mystring	attr_cleanup_reducer.py	/^    mystring='|'.join(value)$/;"	v
+mystring	attr_cleanup_reducer.py	/^mystring ='' $/;"	v
+mystring	attr_reducer.py	/^    mystring='|'.join(value)$/;"	v
+mystring	attr_reducer.py	/^mystring ='' $/;"	v
+noblank	attr_cleanup_reducer.py	/^    noblank = keyvalue[2]$/;"	v
+noblank	attr_reducer.py	/^    noblank = keyvalue[2]$/;"	v
+nodistinct	attr_cleanup_reducer.py	/^    nodistinct = keyvalue[1]$/;"	v
+nodistinct	attr_reducer.py	/^    nodistinct = keyvalue[1]$/;"	v
+os	create_map_file.py	/^import os$/;"	i
+os	test/test.py	/^import os$/;"	i
+percentoftotal	attr_cleanup_reducer.py	/^        percentoftotal = round(v\/float(totalcount),2)$/;"	v
+percentoftotal	attr_reducer.py	/^        percentoftotal = round(v\/float(totalcount),2)$/;"	v
+retain_lastx_log_size	dmt_model_main.sh	/^function retain_lastx_log_size$/;"	f
+runStringMatch	dmt_model_main.sh	/^function runStringMatch$/;"	f
+sayhelloworld	test/test.sh	/^function sayhelloworld$/;"	f
+setPermission	dmt_model_main.sh	/^function setPermission$/;"	f
+set_logger	columns_to_rows.py	/^def set_logger():$/;"	f
+set_logger	create_map_file.py	/^def set_logger():$/;"	f
+similarvaluelist	attr_cleanup_mapper.py	/^            similarvaluelist = []$/;"	v
+similarvaluelist	attr_cleanup_mapper.py	/^    similarvaluelist = []$/;"	v
+similarvaluelist	attr_mapper.py	/^            similarvaluelist = []$/;"	v
+similarvaluelist	attr_mapper.py	/^    similarvaluelist = []$/;"	v
+similarvaluelist	attr_mapper2.py	/^            similarvaluelist = []$/;"	v
+similarvaluelist	attr_mapper2.py	/^    similarvaluelist = []$/;"	v
+skewness	attr_cleanup_reducer.py	/^            skewness = 1$/;"	v
+skewness	attr_cleanup_reducer.py	/^    skewness = 0$/;"	v
+skewness	attr_reducer.py	/^            skewness = 1$/;"	v
+skewness	attr_reducer.py	/^    skewness = 0$/;"	v
+skip_attribute	create_map_file.py	/^def skip_attribute(item):$/;"	f
+startProgram	dmt_model_main.sh	/^function startProgram$/;"	f
+stringconcatlist	attr_cleanup_reducer.py	/^    stringconcatlist = []$/;"	v
+stringconcatlist	attr_reducer.py	/^    stringconcatlist = []$/;"	v
+suite	unittest/test_create_map_file.py	/^suite = unittest.TestLoader().loadTestsFromTestCase(IsOddTests)$/;"	v
+sys	attr_cleanup_mapper.py	/^import sys$/;"	i
+sys	attr_cleanup_reducer.py	/^import sys$/;"	i
+sys	attr_mapper.py	/^import sys$/;"	i
+sys	attr_mapper2.py	/^import sys$/;"	i
+sys	attr_reducer.py	/^import sys$/;"	i
+sys	columns_to_rows.py	/^import sys$/;"	i
+sys	create_map_file.py	/^import sys$/;"	i
+testFour	unittest/test_create_map_file.py	/^    def testFour(self):$/;"	m	class:IsOddTests
+testOne	unittest/test_create_map_file.py	/^    def testOne(self):$/;"	m	class:IsOddTests
+testThree	unittest/test_create_map_file.py	/^    def testThree(self):$/;"	m	class:IsOddTests
+testTwo	unittest/test_create_map_file.py	/^    def testTwo(self):$/;"	m	class:IsOddTests
+time	create_map_file.py	/^import time$/;"	i
+totalcount	attr_cleanup_mapper.py	/^        totalcount = 0$/;"	v
+totalcount	attr_cleanup_mapper.py	/^    totalcount = 0$/;"	v
+totalcount	attr_cleanup_reducer.py	/^    totalcount = keyvalue[3]$/;"	v
+totalcount	attr_mapper.py	/^        totalcount = 0$/;"	v
+totalcount	attr_mapper.py	/^    totalcount = 0$/;"	v
+totalcount	attr_mapper2.py	/^        totalcount = 0$/;"	v
+totalcount	attr_mapper2.py	/^    totalcount = 0$/;"	v
+totalcount	attr_reducer.py	/^    totalcount = keyvalue[3]$/;"	v
+tranpose_file	columns_to_rows.py	/^def tranpose_file():$/;"	f
+transposeCSV	dmt_model_main.sh	/^function transposeCSV$/;"	f
+unittest	unittest/test_create_map_file.py	/^import unittest$/;"	i
+value	attr_cleanup_mapper.py	/^        value = "%s|%s|%s|%s|%s" % (str(distinctcount),str(blankcount), totalcount, attrvaluelist, valuecountdict)$/;"	v
+value	attr_cleanup_mapper.py	/^    value = "" $/;"	v
+value	attr_cleanup_reducer.py	/^    value = ast.literal_eval(keyvalue[4])$/;"	v
+value	attr_mapper.py	/^        value = "%s|%s|%s|%s|%s" % (str(distinctcount),str(blankcount), totalcount, attrvaluelist, valuecountdict)$/;"	v
+value	attr_mapper.py	/^    value = "" $/;"	v
+value	attr_mapper2.py	/^        value = "%s|%s|%s|%s|%s" % (str(distinctcount),str(blankcount), totalcount, attrvaluelist, valuecountdict)$/;"	v
+value	attr_mapper2.py	/^    value = "" $/;"	v
+value	attr_reducer.py	/^    value = ast.literal_eval(keyvalue[4])$/;"	v
+valuecountdict	attr_cleanup_mapper.py	/^    valuecountdict = {}$/;"	v
+valuecountdict	attr_mapper.py	/^    valuecountdict = {}$/;"	v
+valuecountdict	attr_mapper2.py	/^    valuecountdict = {}$/;"	v
+words	attr_cleanup_mapper.py	/^        words = myline.split("|")$/;"	v
+words	attr_mapper.py	/^        words = myline.split("|")$/;"	v
+words	attr_mapper2.py	/^        words = myline.split("|")$/;"	v
+write_header_line	create_map_file.py	/^def write_header_line(headerLine):$/;"	f
+write_mapper_file	create_map_file.py	/^def write_mapper_file(retail_channel_code, department, category, mytimestamp, attr_key_value, attr_column_list, attr_value_list):$/;"	f
+write_transposed_element	columns_to_rows.py	/^def write_transposed_element(headerlist, keyvaluelist):$/;"	f

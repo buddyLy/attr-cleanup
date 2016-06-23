@@ -1,0 +1,1 @@
+1|4324|3186|20150206_104739|attribute1:brand~attribute4:flavor~attribute7:size|attribute1,attribute4,attribute7|brand,flavor,size

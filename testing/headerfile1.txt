@@ -1,0 +1,1 @@
+attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,upc_nbr String

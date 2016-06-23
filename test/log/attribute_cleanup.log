@@ -1,0 +1,20 @@
+2015-01-27 13:14:17: 36191: 216:Checking to see if local server has enough space
+2015-01-27 13:14:17: 36191: 140:Checking required space: 1G on mount: /Users
+2015-01-27 13:14:17: 36191: 207:You have enough space. Need: 1000000000 Available: 
+2015-01-27 13:14:17: 36191: 220:Enough space is available: Need space: 1G Avail space: 168Gi
+2015-01-27 13:14:17: 36191: 450: --------------------STARTING main program ----------------------------
+2015-01-27 13:14:17: 36191: Missing input file for tranposed module. [rc=1]
+36252: Sourcing default configuration file: /Users/lcle/git/attr-cleanup/test/dmt_model_main.cfg
+2015-01-27 13:14:27: 36252: 216:Checking to see if local server has enough space
+2015-01-27 13:14:27: 36252: 140:Checking required space: 1G on mount: /Users
+2015-01-27 13:14:27: 36252: 207:You have enough space. Need: 1000000000 Available: 
+2015-01-27 13:14:27: 36252: 220:Enough space is available: Need space: 1G Avail space: 168Gi
+2015-01-27 13:14:27: 36252: 450: --------------------STARTING main program ----------------------------
+2015-01-27 13:14:27: 36252: Missing input file for tranposed module. [rc=1]
+36856: Sourcing default configuration file: /Users/lcle/git/attr-cleanup/test/dmt_model_main.cfg
+2015-01-27 13:46:01: 36856: 216:Checking to see if local server has enough space
+2015-01-27 13:46:01: 36856: 140:Checking required space: 1G on mount: /Users
+2015-01-27 13:46:01: 36856: 207:You have enough space. Need: 1000000000 Available: 
+2015-01-27 13:46:01: 36856: 220:Enough space is available: Need space: 1G Avail space: 168Gi
+2015-01-27 13:46:01: 36856: 450: --------------------STARTING main program ----------------------------
+2015-01-27 13:46:01: 36856: Missing input file for tranposed module. [rc=1]

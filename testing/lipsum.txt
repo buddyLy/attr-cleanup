@@ -1,0 +1,3 @@
+flavor||strawberrys|strawberry|strawberry||strawberries|strawberry|strawberry|strawberries|Apple|Applee|Apple|strawberries
+brand|Caramell|Gourmet|Gourmet|Gourmet|Gourmett|Caramel|Gourmet|Gourmet|Gourmet
+packsize|3 ounce|2 quarts|3 ounce|3 ounce|3 ounce|3 ounces|3 ounce

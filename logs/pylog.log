@@ -1,0 +1,1126 @@
+[02/03/2015 10:37:19 AM:create_map_file.py:INFO:      main():211] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/03/2015 10:37:19 AM:create_map_file.py:INFO:get_usr_input():48] Enter get_usr_input
+[02/03/2015 10:37:19 AM:create_map_file.py:ERROR:get_usr_input():62] Not enough arguments list index out of range
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:      main():211] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:get_usr_input():48] Enter get_usr_input
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:get_usr_input():67] Exit get_usr_input
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:get_header_info():140] Enter get_header_info
+[02/03/2015 10:37:27 AM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,]
+[02/03/2015 10:37:27 AM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/03/2015 10:37:27 AM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:write_header_line():73] Enter write_header_line
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:write_header_line():85] Exit write_header_line
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:write_mapper_file():92] Enter write_mapper_file
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:write_mapper_file():116] Exit write_mapper_file
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:get_header_info():205] Exit get_header_info
+[02/03/2015 10:37:27 AM:create_map_file.py:INFO:      main():227] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/03/2015 10:37:32 AM:columns_to_rows.py:INFO:      main():159] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/03/2015 10:37:32 AM:columns_to_rows.py:INFO:get_usr_input():31] Enter get_usr_input
+[02/03/2015 10:37:32 AM:columns_to_rows.py:ERROR:get_usr_input():39] Not enough arguments list index out of range
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:      main():159] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:get_usr_input():31] Enter get_usr_input
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:get_usr_input():44] Exit get_usr_input
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:tranpose_file():114] Enter tranpose_file
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:get_file_reader():48] Enter get_file_reader
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:get_file_reader():59] Exit get_file_reader
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:write_transposed_element():78] Enter write_transposed_element
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:get_file_writer():64] Enter get_file_writer
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:get_file_writer():73] Exit get_file_writer
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:write_transposed_element():88] Exit write_transposed_element
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:tranpose_file():153] Exit tranpose_file
+[02/03/2015 10:37:41 AM:columns_to_rows.py:INFO:      main():173] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 10:56:56 PM:create_map_file.py:INFO:      main():211] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 10:56:56 PM:create_map_file.py:INFO:get_usr_input():48] Enter get_usr_input
+[02/05/2015 10:56:56 PM:create_map_file.py:ERROR:get_usr_input():62] Not enough arguments list index out of range
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:      main():211] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:get_usr_input():48] Enter get_usr_input
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:get_usr_input():67] Exit get_usr_input
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:get_header_info():140] Enter get_header_info
+[02/05/2015 10:57:22 PM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,]
+[02/05/2015 10:57:22 PM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 10:57:22 PM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:write_header_line():73] Enter write_header_line
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:write_header_line():85] Exit write_header_line
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:write_mapper_file():92] Enter write_mapper_file
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:write_mapper_file():116] Exit write_mapper_file
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:get_header_info():205] Exit get_header_info
+[02/05/2015 10:57:22 PM:create_map_file.py:INFO:      main():227] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:      main():211] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:get_usr_input():48] Enter get_usr_input
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:get_usr_input():67] Exit get_usr_input
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:get_header_info():140] Enter get_header_info
+[02/05/2015 10:57:29 PM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,]
+[02/05/2015 10:57:29 PM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 10:57:29 PM:create_map_file.py:DEBUG:get_header_info():192] Header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:write_header_line():73] Enter write_header_line
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:write_header_line():85] Exit write_header_line
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:write_mapper_file():92] Enter write_mapper_file
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:write_mapper_file():116] Exit write_mapper_file
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:get_header_info():205] Exit get_header_info
+[02/05/2015 10:57:29 PM:create_map_file.py:INFO:      main():227] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:06:31 PM:create_map_file.py:INFO:      main():201] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:06:31 PM:create_map_file.py:INFO:get_usr_input():36] Enter get_usr_input
+[02/05/2015 11:06:31 PM:create_map_file.py:ERROR:get_usr_input():50] Not enough arguments list index out of range
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:      main():201] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:get_usr_input():36] Enter get_usr_input
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:get_usr_input():55] Exit get_usr_input
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:get_header_info():128] Enter get_header_info
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():158] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():160] item at 1 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():182] Current header is [attribute1 String,]
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():160] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():170] Found category at position 2 with item named ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():160] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():160] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():182] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():160] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():160] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():160] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():182] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 11:06:40 PM:create_map_file.py:DEBUG:get_header_info():160] item at 4 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:write_header_line():61] Enter write_header_line
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:write_header_line():73] Exit write_header_line
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:write_mapper_file():80] Enter write_mapper_file
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:write_mapper_file():104] Exit write_mapper_file
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:get_header_info():195] Exit get_header_info
+[02/05/2015 11:06:40 PM:create_map_file.py:INFO:      main():217] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:      main():202] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:get_usr_input():37] Enter get_usr_input
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:get_usr_input():56] Exit get_usr_input
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:get_header_info():129] Enter get_header_info
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():159] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():161] item at 1 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():183] Current header is [attribute1 String,]
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():161] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():171] Found category at position 2 with item named ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():161] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():161] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():183] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():161] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():161] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():161] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():183] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 11:12:12 PM:create_map_file.py:DEBUG:get_header_info():161] item at 4 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:write_header_line():62] Enter write_header_line
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:write_header_line():74] Exit write_header_line
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:write_mapper_file():81] Enter write_mapper_file
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:write_mapper_file():105] Exit write_mapper_file
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:get_header_info():196] Exit get_header_info
+[02/05/2015 11:12:12 PM:create_map_file.py:INFO:      main():218] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:      main():207] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:get_usr_input():42] Enter get_usr_input
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:get_usr_input():61] Exit get_usr_input
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:get_header_info():134] Enter get_header_info
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():164] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():166] item at 1 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():188] Current header is [attribute1 String,]
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():166] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():176] Found category at position 2 with item named ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():166] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():166] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():188] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():166] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():166] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():166] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():188] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 11:15:13 PM:create_map_file.py:DEBUG:get_header_info():166] item at 4 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:write_header_line():67] Enter write_header_line
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:write_header_line():79] Exit write_header_line
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:write_mapper_file():86] Enter write_mapper_file
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:write_mapper_file():110] Exit write_mapper_file
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:get_header_info():201] Exit get_header_info
+[02/05/2015 11:15:13 PM:create_map_file.py:INFO:      main():223] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:      main():208] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:get_usr_input():43] Enter get_usr_input
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:get_usr_input():62] Exit get_usr_input
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:get_header_info():135] Enter get_header_info
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():165] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():167] item at 1 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,]
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():177] Found category at position 2 with item named ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 11:16:14 PM:create_map_file.py:DEBUG:get_header_info():167] item at 4 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:write_header_line():68] Enter write_header_line
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:write_header_line():80] Exit write_header_line
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:write_mapper_file():87] Enter write_mapper_file
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:write_mapper_file():111] Exit write_mapper_file
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:get_header_info():202] Exit get_header_info
+[02/05/2015 11:16:14 PM:create_map_file.py:INFO:      main():224] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:      main():208] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:get_usr_input():43] Enter get_usr_input
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:get_usr_input():62] Exit get_usr_input
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:get_header_info():135] Enter get_header_info
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():165] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():167] item at 1 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,]
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():177] Found category at position 2 with item named ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 11:16:31 PM:create_map_file.py:DEBUG:get_header_info():167] item at 4 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:write_header_line():68] Enter write_header_line
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:write_header_line():80] Exit write_header_line
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:write_mapper_file():87] Enter write_mapper_file
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:write_mapper_file():111] Exit write_mapper_file
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:get_header_info():202] Exit get_header_info
+[02/05/2015 11:16:31 PM:create_map_file.py:INFO:      main():224] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:      main():208] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:get_usr_input():43] Enter get_usr_input
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:get_usr_input():62] Exit get_usr_input
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:get_header_info():135] Enter get_header_info
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():165] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():167] item at 1 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,]
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():177] Found category at position 2 with item named ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():167] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():167] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():189] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 11:17:41 PM:create_map_file.py:DEBUG:get_header_info():167] item at 4 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:write_header_line():68] Enter write_header_line
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:write_header_line():80] Exit write_header_line
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:write_mapper_file():87] Enter write_mapper_file
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:write_mapper_file():111] Exit write_mapper_file
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:get_header_info():202] Exit get_header_info
+[02/05/2015 11:17:41 PM:create_map_file.py:INFO:      main():224] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:      main():209] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:get_header_info():136] Enter get_header_info
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():166] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [attribute1 String,]
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():178] Found category at position 2 with item named ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 11:19:06 PM:create_map_file.py:DEBUG:get_header_info():168] item at 4 is ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:write_header_line():69] Enter write_header_line
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:write_header_line():81] Exit write_header_line
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:write_mapper_file():88] Enter write_mapper_file
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:write_mapper_file():112] Exit write_mapper_file
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:get_header_info():203] Exit get_header_info
+[02/05/2015 11:19:06 PM:create_map_file.py:INFO:      main():225] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:      main():209] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:get_header_info():136] Enter get_header_info
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():166] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is brand String
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [attribute1 String,]
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is category_nbr String
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():178] Found category at position 2 with item named ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is dept_nbr String
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is flavor String
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,]
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is product_segment String
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is retail_channel_code String
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is size String
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute2 String,product_segment String,retail_channel_code String,attribute3 String,]
+[02/05/2015 11:19:43 PM:create_map_file.py:DEBUG:get_header_info():168] item at 4 is upc_nbr String
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:write_header_line():69] Enter write_header_line
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:write_header_line():81] Exit write_header_line
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:write_mapper_file():88] Enter write_mapper_file
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:write_mapper_file():112] Exit write_mapper_file
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:get_header_info():203] Exit get_header_info
+[02/05/2015 11:19:43 PM:create_map_file.py:INFO:      main():225] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:      main():209] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:get_header_info():136] Enter get_header_info
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():166] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is acctg_dept_desc String
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is acctg_dept_nbr int
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is brand String
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,]
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is dept_category_desc String
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():178] Found category at position 2 with item named ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is dept_category_nbr int
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():178] Found category at position 2 with item named ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is flavor String
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,dept_category_desc String,dept_category_nbr int,attribute2 String,]
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is meal_occasion String
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,dept_category_desc String,dept_category_nbr int,attribute2 String,attribute3 String,]
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 4 is primary_usage String
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,dept_category_desc String,dept_category_nbr int,attribute2 String,attribute3 String,attribute4 String,]
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 5 is retail_channel_code int
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 5 is segment String
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 5 is unit_size String
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,dept_category_desc String,dept_category_nbr int,attribute2 String,attribute3 String,attribute4 String,retail_channel_code int,segment String,attribute5 String,]
+[02/05/2015 11:21:25 PM:create_map_file.py:DEBUG:get_header_info():168] item at 6 is upc_nbr int
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:write_header_line():69] Enter write_header_line
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:write_header_line():81] Exit write_header_line
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:write_mapper_file():88] Enter write_mapper_file
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:write_mapper_file():112] Exit write_mapper_file
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:get_header_info():203] Exit get_header_info
+[02/05/2015 11:21:25 PM:create_map_file.py:INFO:      main():225] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:      main():209] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:get_header_info():136] Enter get_header_info
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():166] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is acctg_dept_desc String
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is acctg_dept_nbr int
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is brand String
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,]
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is dept_category_desc String
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is dept_category_nbr int
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():178] Found category at position 2 with item named ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is flavor String
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,dept_category_desc String,dept_category_nbr int,attribute2 String,]
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is meal_occasion String
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,dept_category_desc String,dept_category_nbr int,attribute2 String,attribute3 String,]
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 4 is primary_usage String
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,dept_category_desc String,dept_category_nbr int,attribute2 String,attribute3 String,attribute4 String,]
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 5 is retail_channel_code int
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 5 is segment String
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 5 is unit_size String
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():190] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute1 String,dept_category_desc String,dept_category_nbr int,attribute2 String,attribute3 String,attribute4 String,retail_channel_code int,segment String,attribute5 String,]
+[02/05/2015 11:22:45 PM:create_map_file.py:DEBUG:get_header_info():168] item at 6 is upc_nbr int
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:write_header_line():69] Enter write_header_line
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:write_header_line():81] Exit write_header_line
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:write_mapper_file():88] Enter write_mapper_file
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:write_mapper_file():112] Exit write_mapper_file
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:get_header_info():203] Exit get_header_info
+[02/05/2015 11:22:45 PM:create_map_file.py:INFO:      main():225] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:      main():210] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:get_header_info():136] Enter get_header_info
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():166] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is acctg_dept_desc String
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is acctg_dept_nbr int
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is brand String
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,]
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 4 is dept_category_desc String
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 5 is dept_category_nbr int
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():178] Found category at position 5 with item named ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 6 is flavor String
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,]
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 7 is meal_occasion String
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,]
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 8 is primary_usage String
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,attribute8 String,]
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 9 is retail_channel_code int
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 10 is segment String
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 11 is unit_size String
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,attribute8 String,retail_channel_code int,segment String,attribute11 String,]
+[02/05/2015 11:24:07 PM:create_map_file.py:DEBUG:get_header_info():168] item at 12 is upc_nbr int
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:write_header_line():69] Enter write_header_line
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:write_header_line():81] Exit write_header_line
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:write_mapper_file():88] Enter write_mapper_file
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:write_mapper_file():112] Exit write_mapper_file
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:get_header_info():204] Exit get_header_info
+[02/05/2015 11:24:07 PM:create_map_file.py:INFO:      main():226] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:      main():210] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:get_header_info():136] Enter get_header_info
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():166] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is acctg_dept_desc String
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 2 is acctg_dept_nbr int
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 3 is brand String
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,]
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 4 is dept_category_desc String
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 5 is dept_category_nbr int
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():178] Found category at position 5 with item named dept_category_nbr int
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 6 is flavor String
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,]
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 7 is meal_occasion String
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,]
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 8 is primary_usage String
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,attribute8 String,]
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 9 is retail_channel_code int
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 10 is segment String
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 11 is unit_size String
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():191] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,attribute8 String,retail_channel_code int,segment String,attribute11 String,]
+[02/05/2015 11:25:04 PM:create_map_file.py:DEBUG:get_header_info():168] item at 12 is upc_nbr int
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:write_header_line():69] Enter write_header_line
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:write_header_line():81] Exit write_header_line
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:write_mapper_file():88] Enter write_mapper_file
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:write_mapper_file():112] Exit write_mapper_file
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:get_header_info():204] Exit get_header_info
+[02/05/2015 11:25:04 PM:create_map_file.py:INFO:      main():226] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/05/2015 11:34:53 PM:create_map_file.py:INFO:      main():210] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:34:53 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:34:53 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:34:53 PM:create_map_file.py:INFO:get_header_info():136] Enter get_header_info
+[02/05/2015 11:34:53 PM:create_map_file.py:DEBUG:get_header_info():166] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:34:53 PM:create_map_file.py:DEBUG:get_header_info():168] item at 1 is acctg_dept_desc String
+[02/05/2015 11:39:46 PM:create_map_file.py:INFO:      main():214] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:39:46 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:39:46 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:39:46 PM:create_map_file.py:INFO:get_header_info():140] Enter get_header_info
+[02/05/2015 11:39:46 PM:create_map_file.py:DEBUG:get_header_info():170] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:39:46 PM:create_map_file.py:DEBUG:get_header_info():172] item at 1 is acctg_dept_desc String
+[02/05/2015 11:39:46 PM:create_map_file.py:ERROR:skip_attribute():132] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:41:35 PM:create_map_file.py:INFO:      main():214] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:41:35 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:41:35 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:41:35 PM:create_map_file.py:INFO:get_header_info():140] Enter get_header_info
+[02/05/2015 11:41:35 PM:create_map_file.py:DEBUG:get_header_info():170] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:41:35 PM:create_map_file.py:DEBUG:get_header_info():172] item at 1 is acctg_dept_desc String
+[02/05/2015 11:41:35 PM:create_map_file.py:ERROR:skip_attribute():132] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:43:08 PM:create_map_file.py:INFO:      main():214] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:43:08 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:43:08 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:43:08 PM:create_map_file.py:INFO:get_header_info():140] Enter get_header_info
+[02/05/2015 11:43:08 PM:create_map_file.py:DEBUG:get_header_info():170] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:43:08 PM:create_map_file.py:DEBUG:get_header_info():172] item at 1 is acctg_dept_desc String
+[02/05/2015 11:43:08 PM:create_map_file.py:ERROR:skip_attribute():132] Error skipping generic attributes with error 'module' object has no attribute 'category'
+[02/05/2015 11:43:40 PM:create_map_file.py:INFO:      main():215] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:43:40 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:43:40 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:43:40 PM:create_map_file.py:INFO:get_header_info():141] Enter get_header_info
+[02/05/2015 11:43:40 PM:create_map_file.py:DEBUG:get_header_info():171] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:43:40 PM:create_map_file.py:DEBUG:get_header_info():173] item at 1 is acctg_dept_desc String
+[02/05/2015 11:44:05 PM:create_map_file.py:INFO:      main():215] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:44:05 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:44:05 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:44:05 PM:create_map_file.py:INFO:get_header_info():141] Enter get_header_info
+[02/05/2015 11:44:05 PM:create_map_file.py:DEBUG:get_header_info():171] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:44:05 PM:create_map_file.py:DEBUG:get_header_info():173] item at 1 is acctg_dept_desc String
+[02/05/2015 11:44:29 PM:create_map_file.py:INFO:      main():215] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:44:29 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:44:29 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:44:29 PM:create_map_file.py:INFO:get_header_info():141] Enter get_header_info
+[02/05/2015 11:44:29 PM:create_map_file.py:DEBUG:get_header_info():171] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:44:29 PM:create_map_file.py:DEBUG:get_header_info():173] item at 1 is acctg_dept_desc String
+[02/05/2015 11:44:29 PM:create_map_file.py:ERROR:skip_attribute():133] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:46:04 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:46:04 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:46:04 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:46:04 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:46:04 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:46:04 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:46:04 PM:create_map_file.py:ERROR:skip_attribute():134] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:46:25 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:46:25 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:46:25 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:46:25 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:46:25 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:46:25 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:47:02 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:47:02 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:47:02 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:47:02 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:47:02 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:47:02 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:47:52 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:47:52 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:47:52 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:47:52 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:47:52 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:47:52 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:48:28 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:48:28 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:48:28 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:48:28 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:48:28 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:48:28 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:48:57 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:48:57 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:48:57 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:48:57 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:48:57 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:48:57 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is brand String
+[02/05/2015 11:50:10 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:50:10 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:50:10 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:50:10 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:50:10 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:50:10 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:51:41 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:51:41 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:51:41 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:51:41 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:51:41 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:51:41 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:51:41 PM:create_map_file.py:ERROR:skip_attribute():134] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:52:54 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:52:54 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:52:54 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:52:54 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:52:54 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:52:54 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:52:54 PM:create_map_file.py:ERROR:skip_attribute():134] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:54:04 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:54:04 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:54:04 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:54:04 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:54:04 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:54:04 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:54:04 PM:create_map_file.py:ERROR:skip_attribute():134] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:54:49 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:54:49 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:54:49 PM:create_map_file.py:ERROR:get_usr_input():58] Not enough arguments list index out of range
+[02/05/2015 11:54:55 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:54:55 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:54:55 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:54:55 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:54:55 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/05/2015 11:54:55 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is brand String
+[02/05/2015 11:54:55 PM:create_map_file.py:ERROR:skip_attribute():134] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:55:48 PM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:55:48 PM:create_map_file.py:INFO:get_usr_input():44] Enter get_usr_input
+[02/05/2015 11:55:48 PM:create_map_file.py:INFO:get_usr_input():63] Exit get_usr_input
+[02/05/2015 11:55:48 PM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/05/2015 11:55:48 PM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/05/2015 11:55:48 PM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/05/2015 11:55:48 PM:create_map_file.py:ERROR:skip_attribute():134] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/05/2015 11:59:34 PM:create_map_file.py:INFO:      main():218] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/05/2015 11:59:34 PM:create_map_file.py:INFO:get_usr_input():45] Enter get_usr_input
+[02/05/2015 11:59:34 PM:create_map_file.py:ERROR:get_usr_input():60] Not enough arguments list index out of range
+[02/06/2015 12:00:29 AM:create_map_file.py:INFO:      main():218] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 12:00:29 AM:create_map_file.py:INFO:get_usr_input():45] Enter get_usr_input
+[02/06/2015 12:00:29 AM:create_map_file.py:INFO:get_usr_input():65] Exit get_usr_input
+[02/06/2015 12:00:29 AM:create_map_file.py:INFO:get_header_info():144] Enter get_header_info
+[02/06/2015 12:00:29 AM:create_map_file.py:DEBUG:get_header_info():174] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/06/2015 12:00:29 AM:create_map_file.py:DEBUG:get_header_info():176] item at 1 is brand String
+[02/06/2015 12:00:29 AM:create_map_file.py:ERROR:skip_attribute():136] Error skipping generic attributes with error 'module' object has no attribute 'retail_channel_code'
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:      main():218] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:get_usr_input():45] Enter get_usr_input
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:get_usr_input():65] Exit get_usr_input
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:get_header_info():144] Enter get_header_info
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():174] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():176] item at 1 is brand String
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():199] Current header is [attribute1 String,]
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():176] item at 2 is category_nbr String
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():186] Found category at position 2 with item named category_nbr String
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():176] item at 3 is dept_nbr String
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():176] item at 4 is flavor String
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():199] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,]
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():176] item at 5 is product_segment String
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():176] item at 6 is retail_channel_code String
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():176] item at 7 is size String
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():199] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,product_segment String,retail_channel_code String,attribute7 String,]
+[02/06/2015 12:01:45 AM:create_map_file.py:DEBUG:get_header_info():176] item at 8 is upc_nbr String
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:write_header_line():71] Enter write_header_line
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:write_header_line():83] Exit write_header_line
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:write_mapper_file():90] Enter write_mapper_file
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:write_mapper_file():114] Exit write_mapper_file
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:get_header_info():212] Exit get_header_info
+[02/06/2015 12:01:45 AM:create_map_file.py:INFO:      main():234] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:get_usr_input():45] Enter get_usr_input
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:get_usr_input():65] Exit get_usr_input
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():172] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is brand String
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [attribute1 String,]
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():174] item at 2 is category_nbr String
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():184] Found category at position 2 with item named category_nbr String
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():174] item at 3 is dept_nbr String
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():174] item at 4 is flavor String
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,]
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():174] item at 5 is product_segment String
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():174] item at 6 is retail_channel_code String
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():174] item at 7 is size String
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,product_segment String,retail_channel_code String,attribute7 String,]
+[02/06/2015 12:02:14 AM:create_map_file.py:DEBUG:get_header_info():174] item at 8 is upc_nbr String
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:write_header_line():71] Enter write_header_line
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:write_header_line():83] Exit write_header_line
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:write_mapper_file():90] Enter write_mapper_file
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:write_mapper_file():114] Exit write_mapper_file
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:get_header_info():210] Exit get_header_info
+[02/06/2015 12:02:14 AM:create_map_file.py:INFO:      main():232] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:get_usr_input():45] Enter get_usr_input
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:get_usr_input():65] Exit get_usr_input
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 2 is acctg_dept_nbr int
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 3 is brand String
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,]
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 4 is dept_category_desc String
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 5 is dept_category_nbr int
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():184] Found category at position 5 with item named dept_category_nbr int
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 6 is flavor String
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,]
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 7 is meal_occasion String
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,]
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 8 is primary_usage String
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,attribute8 String,]
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 9 is retail_channel_code int
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 10 is segment String
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 11 is unit_size String
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,attribute8 String,retail_channel_code int,segment String,attribute11 String,]
+[02/06/2015 12:02:24 AM:create_map_file.py:DEBUG:get_header_info():174] item at 12 is upc_nbr int
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:write_header_line():71] Enter write_header_line
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:write_header_line():83] Exit write_header_line
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:write_mapper_file():90] Enter write_mapper_file
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:write_mapper_file():114] Exit write_mapper_file
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:get_header_info():210] Exit get_header_info
+[02/06/2015 12:02:24 AM:create_map_file.py:INFO:      main():232] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:      main():216] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:get_usr_input():45] Enter get_usr_input
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:get_usr_input():65] Exit get_usr_input
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:get_header_info():142] Enter get_header_info
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():172] First line: ['acctg_dept_desc String', 'acctg_dept_nbr int', 'brand String', 'dept_category_desc String', 'dept_category_nbr int', 'flavor String', 'meal_occasion String', 'primary_usage String', 'retail_channel_code int', 'segment String', 'unit_size String', 'upc_nbr int']
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 1 is acctg_dept_desc String
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 2 is acctg_dept_nbr int
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 3 is brand String
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,]
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 4 is dept_category_desc String
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 5 is dept_category_nbr int
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():184] Found category at position 5 with item named dept_category_nbr int
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 6 is flavor String
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,]
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 7 is meal_occasion String
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,]
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 8 is primary_usage String
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,attribute8 String,]
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 9 is retail_channel_code int
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 10 is segment String
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 11 is unit_size String
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():197] Current header is [acctg_dept_desc String,acctg_dept_nbr int,attribute3 String,dept_category_desc String,dept_category_nbr int,attribute6 String,attribute7 String,attribute8 String,retail_channel_code int,segment String,attribute11 String,]
+[02/06/2015 12:12:54 AM:create_map_file.py:DEBUG:get_header_info():174] item at 12 is upc_nbr int
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:write_header_line():71] Enter write_header_line
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:write_header_line():83] Exit write_header_line
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:write_mapper_file():90] Enter write_mapper_file
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:write_mapper_file():114] Exit write_mapper_file
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:get_header_info():210] Exit get_header_info
+[02/06/2015 12:12:54 AM:create_map_file.py:INFO:      main():232] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:      main():227] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:get_usr_input():56] Enter get_usr_input
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:get_usr_input():76] Exit get_usr_input
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:get_header_info():153] Enter get_header_info
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():183] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():185] item at 1 is brand String
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():208] Current header is [attribute1 String,]
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():185] item at 2 is category_nbr String
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():195] Found category at position 2 with item named category_nbr String
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():185] item at 3 is dept_nbr String
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():185] item at 4 is flavor String
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():208] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,]
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():185] item at 5 is product_segment String
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():185] item at 6 is retail_channel_code String
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():185] item at 7 is size String
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():208] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,product_segment String,retail_channel_code String,attribute7 String,]
+[02/06/2015 10:37:37 AM:create_map_file.py:DEBUG:get_header_info():185] item at 8 is upc_nbr String
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:write_header_line():82] Enter write_header_line
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:write_header_line():94] Exit write_header_line
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:write_mapper_file():101] Enter write_mapper_file
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:write_mapper_file():125] Exit write_mapper_file
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:get_header_info():221] Exit get_header_info
+[02/06/2015 10:37:37 AM:create_map_file.py:INFO:      main():244] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:      main():224] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:get_usr_input():53] Enter get_usr_input
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:get_usr_input():73] Exit get_usr_input
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:get_header_info():150] Enter get_header_info
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():180] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():182] item at 1 is brand String
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():205] Current header is [attribute1 String,]
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():182] item at 2 is category_nbr String
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():192] Found category at position 2 with item named category_nbr String
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():182] item at 3 is dept_nbr String
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():182] item at 4 is flavor String
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():205] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,]
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():182] item at 5 is product_segment String
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():182] item at 6 is retail_channel_code String
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():182] item at 7 is size String
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():205] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,product_segment String,retail_channel_code String,attribute7 String,]
+[02/06/2015 10:44:40 AM:create_map_file.py:DEBUG:get_header_info():182] item at 8 is upc_nbr String
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:write_header_line():79] Enter write_header_line
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:write_header_line():91] Exit write_header_line
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:write_mapper_file():98] Enter write_mapper_file
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:write_mapper_file():122] Exit write_mapper_file
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:get_header_info():218] Exit get_header_info
+[02/06/2015 10:44:40 AM:create_map_file.py:INFO:      main():239] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:      main():224] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:get_usr_input():53] Enter get_usr_input
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:get_usr_input():73] Exit get_usr_input
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:get_header_info():150] Enter get_header_info
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():180] First line: ['brand String', 'category_nbr String', 'dept_nbr String', 'flavor String', 'product_segment String', 'retail_channel_code String', 'size String', 'upc_nbr String']
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():182] item at 1 is brand String
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():205] Current header is [attribute1 String,]
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():182] item at 2 is category_nbr String
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():192] Found category at position 2 with item named category_nbr String
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():182] item at 3 is dept_nbr String
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():182] item at 4 is flavor String
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():205] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,]
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():182] item at 5 is product_segment String
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():182] item at 6 is retail_channel_code String
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():182] item at 7 is size String
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():205] Current header is [attribute1 String,category_nbr String,dept_nbr String,attribute4 String,product_segment String,retail_channel_code String,attribute7 String,]
+[02/06/2015 10:46:07 AM:create_map_file.py:DEBUG:get_header_info():182] item at 8 is upc_nbr String
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:write_header_line():79] Enter write_header_line
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:write_header_line():91] Exit write_header_line
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:write_mapper_file():98] Enter write_mapper_file
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:write_mapper_file():122] Exit write_mapper_file
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:get_header_info():218] Exit get_header_info
+[02/06/2015 10:46:07 AM:create_map_file.py:INFO:      main():239] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:      main():224] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:get_usr_input():53] Enter get_usr_input
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:get_usr_input():73] Exit get_usr_input
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:get_header_info():150] Enter get_header_info
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:write_header_line():79] Enter write_header_line
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:write_header_line():91] Exit write_header_line
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:write_mapper_file():98] Enter write_mapper_file
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:write_mapper_file():122] Exit write_mapper_file
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:get_header_info():218] Exit get_header_info
+[02/06/2015 10:46:58 AM:create_map_file.py:INFO:      main():239] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:      main():224] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:get_usr_input():53] Enter get_usr_input
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:get_usr_input():73] Exit get_usr_input
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:get_header_info():150] Enter get_header_info
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:write_header_line():79] Enter write_header_line
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:write_header_line():91] Exit write_header_line
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:write_mapper_file():98] Enter write_mapper_file
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:write_mapper_file():122] Exit write_mapper_file
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:get_header_info():218] Exit get_header_info
+[02/06/2015 10:47:39 AM:create_map_file.py:INFO:      main():239] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM create_map_file.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/06/2015 10:47:50 AM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/11/2015 11:24:49 AM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/11/2015 11:24:49 AM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/11/2015 11:24:49 AM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/11/2015 11:24:49 AM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/11/2015 11:24:49 AM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/11/2015 11:24:49 AM:columns_to_rows.py:ERROR:get_file_reader():70] Unable to open pie.csf file with error [Errno 2] No such file or directory: 'pie.csf'
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/11/2015 11:25:00 AM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/11/2015 11:25:23 AM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/11/2015 03:25:18 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/15/2015 12:28:18 AM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/15/2015 12:28:18 AM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/15/2015 12:28:18 AM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/15/2015 12:28:18 AM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/15/2015 12:28:18 AM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/15/2015 12:28:18 AM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/15/2015 12:28:18 AM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/15/2015 12:28:18 AM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/15/2015 12:28:19 AM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/15/2015 12:28:19 AM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/15/2015 12:28:19 AM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/15/2015 12:28:19 AM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 01:41:21 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 01:42:25 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 01:42:26 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():175] 
+
+~~~~~~~~~~~~~~~~~~~~~~~START PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():47] Enter get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_usr_input():60] Exit get_usr_input
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():130] Enter tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():64] Enter get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_reader():75] Exit get_file_reader
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():94] Enter write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():80] Enter get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:get_file_writer():89] Exit get_file_writer
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:write_transposed_element():104] Exit write_transposed_element
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:tranpose_file():169] Exit tranpose_file
+[02/16/2015 02:26:29 PM:columns_to_rows.py:INFO:      main():189] 
+~~~~~~~~~~~~~~~~~~~~~~~END PROGRAM columns_to_rows.py~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

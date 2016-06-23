@@ -1,0 +1,28 @@
+14124: Sourcing default configuration file: /Users/lcle/git/attr-cleanup/dmt_model_main.cfg
+2015-01-24 00:37:41: 14124: 215:Checking to see if local server has enough space
+2015-01-24 00:37:41: 14124: 139:Checking required space: 1G on mount: /Users
+2015-01-24 00:37:41: 14124: 206:You have enough space. Need: 1000000000 Available: 
+2015-01-24 00:37:41: 14124: 219:Enough space is available: Need space: 1G Avail space: 167Gi
+2015-01-24 00:37:41: 14124: 440: --------------------STARTING main program ----------------------------
+2015-01-24 00:37:41: 14124: 479: --------------------END main program ----------------------------
+14248: Sourcing default configuration file: /Users/lcle/git/attr-cleanup/dmt_model_main.cfg
+2015-01-24 00:50:22: 14248: 215:Checking to see if local server has enough space
+2015-01-24 00:50:22: 14248: 139:Checking required space: 1G on mount: /Users
+2015-01-24 00:50:22: 14248: 206:You have enough space. Need: 1000000000 Available: 
+2015-01-24 00:50:22: 14248: 219:Enough space is available: Need space: 1G Avail space: 167Gi
+2015-01-24 00:50:22: 14248: 440: --------------------STARTING main program ----------------------------
+2015-01-24 00:50:22: 14248: 479: --------------------END main program ----------------------------
+14296: Sourcing default configuration file: /Users/lcle/git/attr-cleanup/dmt_model_main.cfg
+2015-01-24 00:56:14: 14296: 215:Checking to see if local server has enough space
+2015-01-24 00:56:14: 14296: 139:Checking required space: 1G on mount: /Users
+2015-01-24 00:56:14: 14296: 206:You have enough space. Need: 1000000000 Available: 
+2015-01-24 00:56:14: 14296: 219:Enough space is available: Need space: 1G Avail space: 167Gi
+2015-01-24 00:56:14: 14296: 440: --------------------STARTING main program ----------------------------
+2015-01-24 00:56:14: 14296: 479: --------------------END main program ----------------------------
+26927: Sourcing default configuration file: /Users/lcle/git/attr-cleanup/dmt_model_main.cfg
+2015-01-26 14:57:31: 26927: 216:Checking to see if local server has enough space
+2015-01-26 14:57:31: 26927: 140:Checking required space: 1G on mount: /Users
+2015-01-26 14:57:31: 26927: 207:You have enough space. Need: 1000000000 Available: 
+2015-01-26 14:57:31: 26927: 220:Enough space is available: Need space: 1G Avail space: 167Gi
+2015-01-26 14:57:31: 26927: 450: --------------------STARTING main program ----------------------------
+2015-01-26 14:57:32: 26927: 489: --------------------END main program ----------------------------
